@@ -1,0 +1,10 @@
+lista1 = ["carlo", "oscar", "tasminia"]
+lista2 = ["plinio", "maldonado", "field"]
+listacompleta = lista1.concat(lista2)
+
+dado = [["flauco", "schactker","minuel"], [32, 66, 12]];
+console.log("nome:" +dado[0][1]+"média:" +dado[1][1]);
+
+dado = [["flauco", "schactker","minuel"], [32,12,77], [21,97,66],[1,34,49]];
+console.log("nome:" +dado[0][1]+"média:" +dado[1][1]);
+
