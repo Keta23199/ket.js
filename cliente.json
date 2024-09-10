@@ -1,0 +1,15 @@
+[{
+    "nome":"kirby",
+    "email":"kcoard8@squiidoo.com",
+    "telefone":[
+        "9291767581",
+        "92991767581",
+    ],
+    "endereço":{
+        "logradouro":"rua valley edge",
+        "numero":"5",
+        "cep":"20195",
+        "apartamento":false,
+        "complemento":"venda da tia zezé"
+    }
+}]
